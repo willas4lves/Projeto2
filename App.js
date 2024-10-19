@@ -3,7 +3,7 @@ import {
   View,
   Text,
   StyleSheet,
-  useWindowDimensions,
+  useWindowDimensions, //Usado para obter a largura da tela e ajustar o layout dinamicamente
   TouchableOpacity,
 } from "react-native";
 
